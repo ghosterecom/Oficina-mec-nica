@@ -25,3 +25,11 @@ body{
     padding: 24px;
     border-bottom: 6px solid var(--borda);
 }
+#titulo-pricipal{
+    background-color: var(--cor-de-fundo);
+    border: none;
+    color: var(--fundo-texto);
+    font-family: var(--roboto-mono);
+    font-size: 40px;
+    width: 70%;
+}

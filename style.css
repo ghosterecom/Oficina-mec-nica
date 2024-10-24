@@ -6,11 +6,22 @@
     --borda: #145196;
     --roboto-mono: 'Roboto Mono', monospace;
     --roboto:'Roboto', sans-serif;
+    --cor-de-fundo: #2610cd; 
 }
 body{
     background-color: var(--cor-de-fundo);
     color: var(--vermelho);
 }
-.conteudo-titulo{
+
+.titulo-pricipal {
     text-align: center;
+}
+*{
+    font-weight: 300;
+}
+.titulo-principal{
+    margin-top: 75px;
+    background-color: var(--cor-de-fundo);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
 }

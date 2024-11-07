@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:wght@400;700&display=swap');
 :root{
-    --vermelho: rgb(190, 70, 70);   
+    --cinza: rgb(190, 70, 70);   
     --fundo-texto: #9B9B9B;  
     --borda: #145196;
     --roboto-mono: 'Roboto Mono', monospace;

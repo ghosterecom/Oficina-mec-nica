@@ -28,6 +28,7 @@ body{
     font-family: var(--roboto-mono);
     font-size: 60px;
 }
+.titulo-pricipal: center;
 .cabecalho{
     align-items: center;
     text-align: center;

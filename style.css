@@ -5,7 +5,7 @@
     --borda: #145196;
     --roboto-mono: 'Roboto Mono', monospace;
     --roboto:'Roboto', sans-serif;
-    --cor-de-fundo: #2610cd;  
+    --cor-de-fundo: #FC3C00;  
 }
 body{
     background-color: var(--cor-de-fundo);

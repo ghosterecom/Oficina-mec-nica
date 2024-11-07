@@ -37,3 +37,6 @@ body{
     font-family: var(--roboto-mono);
     font-size: 32px;
 }
+.cabecalho{
+    align-items: "center";
+}

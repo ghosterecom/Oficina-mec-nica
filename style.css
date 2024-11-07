@@ -39,6 +39,6 @@ body{
     border: none;
     color: var(--fundo-texto);
     font-family: var(--roboto-mono);
-    font-size: 18px;
+    font-size: 20px;
     width: 70%;
 }

@@ -28,7 +28,9 @@ body{
     font-family: var(--roboto-mono);
     font-size: 60px;
 }
-.titulo-pricipal: center;
+.titulo-pricipal{
+    text-align: center;
+}
 .cabecalho{
     align-items: center;
     text-align: center;

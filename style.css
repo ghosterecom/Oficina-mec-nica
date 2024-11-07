@@ -34,3 +34,11 @@ body{
     align-items: center;
     text-align: center;
 }
+.titulo-secundario{
+    background-color: var(--cor-de-fundo);
+    border: none;
+    color: var(--fundo-texto);
+    font-family: var(--roboto-mono);
+    font-size: 60px;
+    width: 70%;
+}

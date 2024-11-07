@@ -23,7 +23,7 @@ body{
     border: none;
     color: var(--fundo-texto);
     font-family: var(--roboto-mono);
-    font-size: 40px;
+    font-size: 60px;
     width: 70%;
 }
 .titulo-principal{

@@ -31,6 +31,12 @@ body{
 .titulo-pricipal{
     text-align: center;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: 100vh;
+    margin: 0;
+}
 .titulo-secundario{
     background-color: var(--cor-de-fundo);
     border: none;

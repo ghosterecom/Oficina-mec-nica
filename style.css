@@ -34,7 +34,8 @@ body{
 body{
     display: flex;
     justify-content: center;
-    align-items: 100vh;
+    align-items: center;
+    height: 100vh;
     margin: 60px;
 }
 .titulo-secundario{

@@ -35,7 +35,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: 100vh;
-    margin: 0;
+    margin: 60px;
 }
 .titulo-secundario{
     background-color: var(--cor-de-fundo);

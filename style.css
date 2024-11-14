@@ -34,6 +34,7 @@ body{
 .cabecalho{
     text-align: center;
     max-width: 80px;
+    max-height: center;
 }
 .titulo-secundario{
     background-color: var(--cor-de-fundo);

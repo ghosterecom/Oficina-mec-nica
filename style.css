@@ -27,6 +27,7 @@ body{
 .titulo-principal
     font-family: var(--roboto-mono);
     font-size: 60px;
+    text-align: center;
 }
 .titulo-pricipal{
     text-align: center;

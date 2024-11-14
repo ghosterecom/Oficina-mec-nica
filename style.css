@@ -36,7 +36,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 60px;
+    margin: 0;
 }
 .titulo-secundario{
     background-color: var(--cor-de-fundo);

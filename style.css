@@ -31,11 +31,6 @@ body{
 .titulo-pricipal{
     text-align: center;
 }
-.h1{ 
-    cabecalho{ 
-    text-align: center;
-    }
-}
 .titulo-secundario{
     background-color: var(--cor-de-fundo);
     border: none;

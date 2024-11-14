@@ -31,10 +31,11 @@ body{
 .titulo-pricipal{
     text-align: center;
 }
-.cabecalho{
+.h1{ 
+    cabecalho{ 
     text-align: center;
-    max-width: 80px;
-    max-height: center;
+    }
+
 }
 .titulo-secundario{
     background-color: var(--cor-de-fundo);

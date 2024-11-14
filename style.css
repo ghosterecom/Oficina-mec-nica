@@ -51,6 +51,9 @@ body{
     justify-content: space-around;
     gap: 20px;
 }
-.coluna{
+.coluna-um{
     width: 70%;
+}
+.coluna-dois{
+    width: 30%;
 }

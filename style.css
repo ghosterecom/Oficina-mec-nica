@@ -29,9 +29,6 @@ body{
     font-size: 60px;
     text-align: center;
 }
-.titulo-pricipal{
-    text-align: center;
-}
 .titulo-secundario{
     background-color: var(--cor-de-fundo);
     border: none;
